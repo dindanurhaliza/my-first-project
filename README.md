@@ -1,4 +1,4 @@
-FinancialFlow — Aplikasi Pencatatan Keuangan Usaha Sederhana
+#FinancialFlow — Aplikasi Pencatatan Keuangan Usaha Sederhana
 
 FinancialFlow adalah aplikasi manajemen keuangan yang dirancang untuk membantu pelaku usaha kecil dalam memantau transaksi secara mudah dan terstruktur. Aplikasi ini memungkinkan pencatatan produk terjual, belanja bahan produksi, serta arus kas (pemasukan, pengeluaran, dan keuntungan).
 
