@@ -68,14 +68,23 @@ Database: Firestore / MySQL / SQLite
 Version Control: Git & GitHub
 
 📂 Struktur Proyek (Contoh)
+
 /FinancialFlow
+
 │── /lib
+
 │   ├── main.dart
+
 │   ├── /screens
+
 │   ├── /models
+
 │   ├── /services
+
 │── /assets
+
 │── /docs
+
 │── README.md
 
 ⚙️ Cara Instalasi & Menjalankan (Contoh Flutter)
